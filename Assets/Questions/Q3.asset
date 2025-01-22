@@ -15,8 +15,8 @@ MonoBehaviour:
   question: How do developers balance gameplay difficulty to appeal to both casual
     and hardcore gamers?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Offering multiple difficulty modes
+  - ' Using only one balanced mode'
+  - ' Releasing easier DLCs'
+  - Ignoring casual players
   correctAnswerIndex: 0

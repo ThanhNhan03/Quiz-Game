@@ -12,11 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b62eac2d8b47d504398a86d1df2d24a9, type: 3}
   m_Name: Q4
   m_EditorClassIdentifier: 
-  question: What role does RNG (random number generation) play in game design, and
-    how can it affect player experience?
+  question: How have indie games impacted the gaming industry compared to AAA titles?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - "Indie games don\u2019t matter much"
+  - They innovate with smaller budgets
+  - They compete by being cheaper
+  - AAA games always outperform indie games
+  correctAnswerIndex: 1

@@ -17,8 +17,8 @@ MonoBehaviour:
 
 '
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Mechanics define the meta
+  - They only affect casual players
+  - "Mechanics don\u2019t influence behavior"
+  - Developers change behavior directly
   correctAnswerIndex: 0
